@@ -11,4 +11,5 @@
 - *(style, classList ile stillerle oynayabilirsiniz)*
 - *(addEventListener ile kullanıcı etkileşimlerini yakalayabilirsiniz)*
 
-- <img src="Sc1.png">
+<img src="Sc1.png">
+<img src="Sc2.png">
